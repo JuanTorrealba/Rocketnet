@@ -4,7 +4,8 @@
 
 Este proyecto tiene como objetivo desarrollar un software de gestión integral para **Rocket.Net**, un ISP líder en Venezuela (Ficticia. Creada para las materias de Proyecto de Software y Fundamentos de Aplicaciones Web de la UCLA). Nuestro objetivo es mejorar la comunicación interna, optimizar el inventario de servicios y facilitar la supervisión de las sedes y departamentos de la empresa.
 
-Link de Rocket.Net: https://rocket-net.vercel.app/
+## Link de Rocket.Net
+https://rocket-net.vercel.app/
 
 ## Características principales
 
