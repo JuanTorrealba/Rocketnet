@@ -7,6 +7,9 @@ Este proyecto tiene como objetivo desarrollar un software de gestión integral p
 ## Link de Rocket.Net
 https://rocket-net.vercel.app/
 
+## Link al Repositorio de Desarrollo de Rocket.net 
+https://github.com/Pancratzia/Rocket.net
+
 ## Características principales
 
 - **Metodología Ágil:** Utilizaremos Scrum para un desarrollo eficiente y flexible.
